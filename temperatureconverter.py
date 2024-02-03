@@ -1,5 +1,5 @@
 #6
-rt tkinter as tk
+import tkinter as tk
 def convert():
         temp=float(entry.get())
         converted_temp=0.0
